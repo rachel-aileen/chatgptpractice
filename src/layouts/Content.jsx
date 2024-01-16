@@ -12,14 +12,14 @@ export default function Content() {
             >
 
                 <Grid item
-                    xs={10}
+                    xs={11}
                 >
                     <Chat />
                 </Grid>
 
 
                 <Grid item
-                    xs={2}
+                    xs={1}
                 >
 
                     <UserInput />

@@ -42,3 +42,35 @@ body {
   background-color: aqua;
   height: 100%;
 }
+
+.messages {
+  background-color: purple;
+  height: 100%;
+}
+
+.suggested {
+  background-color: teal;
+  height: 100%;
+}
+
+.attach {
+  background-color: yellow;
+  height: 100%;
+}
+
+.type {
+  background-color: burlywood;
+  height: 100%;
+
+}
+
+.send {
+  background-color: red;
+  height: 100%;
+}
+
+.suggestion {
+  background-color: greenyellow;
+  height: 100%;
+  border: 1px solid black;
+}
