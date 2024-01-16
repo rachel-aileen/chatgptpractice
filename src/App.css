@@ -1,5 +1,44 @@
 body {
-  background-color: pink;
+  background-color: whtie;
   margin: 0;
   padding: 0;
+}
+
+/* Navbar */
+.navbar {
+  background: pink;
+  height: 100vh;
+}
+
+.logoBox {
+  background-color: beige;
+  height: 100%;
+}
+
+.listBox {
+  background-color: brown;
+  height: 100%;
+}
+
+.settingBox {
+  background-color: blueviolet;
+  height: 100%;
+}
+
+
+
+/* Content */
+.content {
+  background-color: orange;
+  height: 100vh;
+}
+
+.chat {
+  background-color: aquamarine;
+  height: 100%;
+}
+
+.userInput {
+  background-color: aqua;
+  height: 100%;
 }
