@@ -6,16 +6,18 @@ export default function Suggested() {
     return (
         <div className='suggested'>
 
-            <Grid container
+            <Grid
+                container
+                spacing={1}
                 style={{ height: "100%" }}
             >
 
                 <Grid item xs={6}>
-                    <Suggestion />
+                    <h1>Hello</h1>
                 </Grid>
 
                 <Grid item xs={6}>
-                    <Suggestion />
+                    <Suggestion text={'I love Lily'} />
                 </Grid>
 
                 <Grid item xs={6}>
